@@ -1,4 +1,4 @@
-# tic_tac_toe-v3
+# tic_tac_toe
 An n-by-n sized tic-tac-toe game for any number of human players and computer players. Built in Ruby.
 
 HOW TO PLAY:
